@@ -8,9 +8,9 @@ Ovaj projekat je ecommerce aplikacija izgrađena pomoću React-a, Redux-a, i Vit
 3. Instalirajte zavisnosti: `npm install`
 4. Pokrenite aplikaciju: `npm run dev`
 
-## Kredencijali
-email: admin@localhost.com
-password: admin
+## Kredencijali  
+- **Email**: admin@localhost.com  
+- **Password**: admin  
 
 ## Tehnologije
 - React
