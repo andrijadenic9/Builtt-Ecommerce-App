@@ -8,8 +8,12 @@ Ovaj projekat je ecommerce aplikacija izgrađena pomoću React-a, Redux-a, i Vit
 3. Instalirajte zavisnosti: `npm install`
 4. Pokrenite aplikaciju: `npm run dev`
 
+## Kredencijali
+email: admin@localhost.com
+password: admin
+
 ## Tehnologije
 - React
 - Redux Toolkit
 - React Router
-- (Opcionalno) Tailwind CSS
+- Tailwind CSS
