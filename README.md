@@ -12,4 +12,4 @@ Ovaj projekat je ecommerce aplikacija izgrađena pomoću React-a, Redux-a, i Vit
 - React
 - Redux Toolkit
 - React Router
-- (Opcionalno) Tailwind CSS
+- Tailwind CSS
